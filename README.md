@@ -11,3 +11,5 @@ esperança
 coisas boas
 
 amor e confeitaria
+
+sabedoria
